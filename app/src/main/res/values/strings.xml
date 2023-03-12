@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Track My Parcel</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="license">License</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="driver">Delivery Boy</string>
+    <string name="customer">Customer</string>
+    <string name="findDeliveryBoy">Looking for delivery boy?</string>
+    <string name="search">Search</string>
+    <string name="home">Dashboard</string>
+    <string name="myBookings">My Bookings</string>
+
+    <string name="postFeedback">Post Feedback</string>
+    <string name="rating">Rating</string>
+    <string name="feedback">Feedback</string>
+    <string name="enterFeedback">Enter Your Feedback</string>
+
+    <string name="enterAddress">Enter Address</string>
+    <string name="enterDescription">Enter Delivery Description</string>
+    <string name="bookYourVehicle">Book Your Service</string>
+    <string name="openGoogleMap">Click to open Google Map</string>
+
+    <string name="totalDistance">Total Distance</string>
+    <string name="vehicleCharges">Delivery charges</string>
+    <string name="serviceCharges">Service charges</string>
+    <string name="total">Total</string>
+    <string name="bookId">#BOOK_%s</string>
+    <string name="bookNow">Book &amp; Pay</string>
+
+    <string name="noData">No data available</string>
+
+    <string name="tracking">Tracking</string>
+    <string name="viewDetails">View Details</string>
+    <string name="track">Track Now</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="pickUp">Start Delivery</string>
+    <string name="deliver">Complete Delivery</string>
+
+    <string name="summary">Summary</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="loggedOutSuccessfully">Logged out successfully!</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="paymentProcessing">Payment Processing</string>
+    <string name="paymentCompleted">Payment Completed</string>
+
+</resources>
